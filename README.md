@@ -6,6 +6,7 @@
 Также изначально мы использовали инфракрасные датчики растояния sharp, но на данный момент из-за шумов в показаниях решили отложить
 их внедрение, для этого мы установили arduino uno, так как Raspberry не имеет АЦП. Изначально моторами управляли через Arduino, а даные
 на неё отправляли по serial порту, но на данный момент управление серво приводом реализованно через GPIO Raspberry, а мотором сейчас идёт управление через Arduino.<br>
+##Фотографии робота
 ![Фоточка с машиной общий план](/photos/ts7.jpg "?")<br>
 ![Погнали](/photos/ts1.jpg "?")<br>
 ![Фоточка с роботом](/photos/ts2.jpg "?")<br>
@@ -39,6 +40,7 @@ Now the chassis of the robot is assembled on Lego, the return of view is carried
 Also, initially we used sharp infrared distance sensors, but at the moment, due to noise in the readings, we decided to postpone
 their implementation, for this we installed arduino uno, since Raspberry does not have an ADC. Initially, the motors were controlled via the Arduino, and the data
 it was sent to it via the serial port, but at the moment the control of the servo drive is implemented through the GPIO Raspberry, and the motor is now being controlled via the Arduino. <br> 
+##Robot photos
 ![Фоточка с машиной](/photos/ts1.jpg "?")<br>
 ![Фоточка с роботом](/photos/ts2.jpg "?")<br>
 ![Ещё фоточка с машинкой](/photos/ts3.jpg "?")<br>
