@@ -16,6 +16,8 @@
 ![Всё со всех сторон](/photos/ts6.jpg "?")<br>
 
 ## Наша команда
+![Фотография команды официально](/photos/full_official.jpg "?")<br>
+![Фотка команды с приколом](/photos/full_fun.jpg "?")<br>
 Нас в команде 2 человека:<br>
 Конструктор и сисадмин: Трафняк Семён (@Semelion)<br>
 ![Фоточка с челиком1](/photos/TSL.jpg "?")<br>
@@ -48,6 +50,8 @@ it was sent to it via the serial port, but at the moment the control of the serv
 ![Ну прям нафоткали](/photos/ts5.jpg "?")<br>
 
 ## Our team
+![Фотография команды официально](/photos/full_official.jpg "?")<br>
+![Фотка команды с приколом](/photos/full_fun.jpg "?")<br>
 There are 2 people in the team: <br>
 Constructor and sysadmin: Trafnyak Semyon (@Semelion) <br>
 ![Фоточка с челиком1](/photos/TSL.jpg "?")<br>
