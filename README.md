@@ -34,7 +34,10 @@
 Потробнее про автозапуск есть в [этой статье](https://kakdelayut.ru/cifrovye-texnologii/kak-vypolnit-skript-pri-zapuske-na-raspberry-pi/).
 
 ## Видео
-[Ссылка на Youtube](https://youtu.be/_ll7xcJ6WSc)<br>
+[Ссылка на Youtube квалификация](https://youtu.be/ho2IjPhWh4c)<br>
+![video YT](http://www.stqr.ru/qrcodes/QR-code_url_24_Sep_2021_12-55-1.jpg "?")<br>
+
+[Ссылка на Youtube полный заезд](https://youtu.be/_ll7xcJ6WSc)<br>
 ![video YT](http://www.stqr.ru/qrcodes/QR-code_url_22_Sep_2021_14-29-36.jpg "?")<br>
 
 # Team wro fe Semelion
@@ -64,5 +67,8 @@ Programmer: Danila Morozov <br>
 The video stream processing code is written in Python using the [Open CV](https://github.com/opencv/opencv) library. The [RPI.GPIO](https://pypi.org/project/RPi.GPIO/) library is also used to control the servo drive. And to communicate with the Arduino, the [pyserial](https://pypi.org/project/pyserial/) library was used. Also, you cannot ignore the autorun problem, we ran into a problem that most of the information from the articles did not work. Now our autorun is arranged like this: we have a .sh script that runs the code in python ([how to write the code in this article](https://qna.habr.com/q/800529)), the script itself runs together with the LXDE shell, the autorun file itself is located at <code>/etc/xdg/lxsession/LXDE-pi/autostart</code>. More details about autorun are in this [article](https://kakdelayut.ru/cifrovye-texnologii/kak-vypolnit-skript-pri-zapuske-na-raspberry-pi/). 
 
 ## Video
+[qualification watch on Youtube](https://youtu.be/ho2IjPhWh4c)<br>
+![video YT](http://www.stqr.ru/qrcodes/QR-code_url_24_Sep_2021_12-55-1.jpg "?")<br>
+
 [Watch on YouTube](https://youtu.be/_ll7xcJ6WSc)<br>
 ![video YT](http://www.stqr.ru/qrcodes/QR-code_url_22_Sep_2021_14-29-36.jpg "?")<br>
