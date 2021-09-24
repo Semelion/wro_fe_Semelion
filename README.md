@@ -31,8 +31,10 @@
 Также нельзя пройти мимо проблемы автозапуска, мы столкнулись с проблеммой, что большая часть информации из статей не работала. 
 Сейчас наш автозапуск устроен так: у нас есть .sh скрипт, который запускает код на питоне ([как написать код в этой статье](https://qna.habr.com/q/800529)), 
 сам скрипт запускается вместе с оболочкой LXDE, сам файл автозапуска находится по адресу <code>/etc/xdg/lxsession/LXDE-pi/autostart</code>.
-Потробнее про автозапуск есть в [этой статье](https://kakdelayut.ru/cifrovye-texnologii/kak-vypolnit-skript-pri-zapuske-na-raspberry-pi/).
-
+Потробнее про автозапуск есть в [этой статье](https://kakdelayut.ru/cifrovye-texnologii/kak-vypolnit-skript-pri-zapuske-na-raspberry-pi/).<br>
+Программы лежат в директории raspberry.<br>
+Программа для квалификации называется kvalox.py.<br>
+Программа для финала называется mainlox.py.<br>
 ## Видео
 [Ссылка на Youtube квалификация](https://youtu.be/ho2IjPhWh4c)<br>
 ![video YT](http://www.stqr.ru/qrcodes/QR-code_url_24_Sep_2021_12-55-1.jpg "?")<br>
@@ -65,6 +67,9 @@ Programmer: Danila Morozov <br>
 
 ## Program
 The video stream processing code is written in Python using the [Open CV](https://github.com/opencv/opencv) library. The [RPI.GPIO](https://pypi.org/project/RPi.GPIO/) library is also used to control the servo drive. And to communicate with the Arduino, the [pyserial](https://pypi.org/project/pyserial/) library was used. Also, you cannot ignore the autorun problem, we ran into a problem that most of the information from the articles did not work. Now our autorun is arranged like this: we have a .sh script that runs the code in python ([how to write the code in this article](https://qna.habr.com/q/800529)), the script itself runs together with the LXDE shell, the autorun file itself is located at <code>/etc/xdg/lxsession/LXDE-pi/autostart</code>. More details about autorun are in this [article](https://kakdelayut.ru/cifrovye-texnologii/kak-vypolnit-skript-pri-zapuske-na-raspberry-pi/). 
+The programs are in the raspberry directory. <br>
+The qualification program is called kvalox.py. <br>
+The final program is called mainlox.py. <br> 
 
 ## Video
 [qualification watch on Youtube](https://youtu.be/ho2IjPhWh4c)<br>
